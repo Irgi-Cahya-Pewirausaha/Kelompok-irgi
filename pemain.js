@@ -4,7 +4,7 @@ class Pemain {
     this.x = x;
     this.y = y;
     this.warna = color(warna);
-    this.loncat = 50;
+    this.loncat = 5;
   }
   tampilkan() {
     fill(this.warna);
